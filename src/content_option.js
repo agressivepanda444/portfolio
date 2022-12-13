@@ -46,7 +46,7 @@ const dataportfolio = [{
     {
         img: "https://picsum.photos/400800/?grayscale",
         desctiption: "Storyboards",
-        link: "https://agressivepanda444.github.io/storyboards-portfolio/https://agressivepanda444.github.io/storyboards-portfolio/",
+        link: "https://agressivepanda444.github.io/storyboards-portfolio/",
     },
     {
         img: "https://picsum.photos0/?grayscale",
