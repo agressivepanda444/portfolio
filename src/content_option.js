@@ -41,7 +41,7 @@ const services = [{
 const dataportfolio = [{
         img: "https://picsum.photos400/?grayscale",
         desctiption: "Responsive Design",
-        link: "https://agressivepanda444.github.io/responsivedesign/",
+        link: "https://agressivepanda444.github.io/responsivedesign-portfolio/",
     },
     {
         img: "https://picsum.photos/400800/?grayscale",
